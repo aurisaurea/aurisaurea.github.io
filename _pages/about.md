@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Auris Aurea"
+title: "auris aurea"
 ---
 
 Ein toller Chor
