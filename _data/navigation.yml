@@ -1,0 +1,5 @@
+main:
+  - title: "Über uns"
+    url: /about/
+  - title: "Aktuelle Konzerte"
+    url: /aktuell/
