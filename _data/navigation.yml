@@ -1,5 +1,11 @@
 main:
-  - title: "Über uns"
-    url: /about/
-  - title: "Aktuelle Konzerte"
-    url: /aktuell/
+  de:
+    - title: "Aktuelle Konzerte"
+      url: /news/de/
+    - title: "Über uns"
+      url: /about/de/
+  fr:
+    - title: "Concerts actuels"
+      url: /news/fr/
+    - title: "À propos"
+      url: /about/fr/
