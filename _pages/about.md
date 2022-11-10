@@ -1,7 +1,6 @@
 ---
-permalink: /about/fr/
-title: "auris aurea"
-lang: fr
+permalink: /about/
+title: auris aurea
 ref: about
 ---
 
