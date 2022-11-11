@@ -12,6 +12,8 @@ ref: news
 
 [Programmtexte]({{ site.url }}/assets/programmtexte.pdf)
 
-[Shakespeare Texte]({{ site.url }}/assets/shakespeartexte_uebersetzung.pdf)
+[Übersetzungen der Shakespeare Texte]({{ site.url }}/assets/uebersetzung.pdf)
+
+[Traductions des textes de Shakespeare]({{ site.url }}/assets/traduction.pdf)
  
 ![Sea Change](/assets/seachange_de.png)
