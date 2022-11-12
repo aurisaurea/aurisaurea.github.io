@@ -12,6 +12,8 @@ ref: news
 
 Programm: [Deutsch]({{ site.url }}/assets/program_de.pdf) [Francais]({{ site.url }}/assets/program_fr.pdf)
 
-Texte: [English]({{ site.url }}/assets/programmtexte.pdf) [Deutsch]({{ site.url }}/assets/uebersetzung.pdf) [Francais]({{ site.url }}/assets/traduction.pdf)
+Lied Texte: [English]({{ site.url }}/assets/programmtexte.pdf)
+
+Übersetzung der Shakespeare Texte: [Deutsch]({{ site.url }}/assets/uebersetzung.pdf) [Francais]({{ site.url }}/assets/traduction.pdf)
  
 ![Sea Change](/assets/seachange_de.png)
