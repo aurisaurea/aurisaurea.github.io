@@ -1,5 +1,5 @@
 main:
-  - title: "Bisherige Konzerte"
-    url: /past_concerts/
   - title: "Über uns"
     url: /about/
+  - title: "Bisherige Konzerte"
+    url: /past_concerts/
