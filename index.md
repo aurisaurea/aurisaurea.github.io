@@ -6,8 +6,6 @@ ref: home
 layout: single
 ---
 
-# Bach Kantaten
-
 - 11.03.2023, 19:00: Jugendkirche Einsiedeln
 - 12.03.2023, 17:00: Johanneskirche, Zürich (Einführung 16:30)
 
