@@ -6,6 +6,12 @@ ref: home
 layout: single
 ---
 
+Das junge Vokalensemble auris aurea setzt sich in seinem
+dritten Projekt mit der Musik von Johann Sebastian Bach
+(1685–1750) auseinander. Im Zentrum des heutigen Konzert-
+abends steht die Bachkantate BWV 157 «Ich lasse Dich nicht,
+Du segnest mich denn».
+
 - 11.03.2023, 19:00: Jugendkirche Einsiedeln
 - 12.03.2023, 17:00: Johanneskirche, Zürich (Einführung 16:30)
 
