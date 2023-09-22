@@ -15,10 +15,9 @@ Créé en 2021, l’ensemble vocal auris aurea, se compose de 30 jeunes chanteur
 -->
 
 ### Die Chorleitung
-Deborah Züger (*1997) ist in Pfäffikon SZ aufgewachsen und besuchte die Stiftsschule Einsiedeln. Sie studiert derzeit an der Zürcher Hochschule der Künste im Master Kirchenmusik Chorleitung bei Markus Utz und Ernst Buscagne. Sie ist Assistentin des Schweizer Jugendchors, leitet den Peter und Paul Chor Oberägeri, die Kinder- und Jugendkantorei des Konstanzer Münsters, das Vokalensemble auris aurea und ist Mitglied des Organistenteams der Kirchgemeinde Freienbach.
-
-Seit 2017 studiert sie Chorleitung an der Zürcher Hochschule der Künste. Nach Abschluss ihres Bachelors 2021 konnte sie in einem Erasmusjahr Chorleitung an der Hochschule für Musik und darstellende Künste Stuttgart bei Prof. Denis Rouger studieren.
-Während ihrer Ausbildung war sie von 2017-2019 Assistentin von Lena-Lisa Wüstendörfer und Lisa Appenzeller beim Messias-Chor Zürich und 2021 beim Knabenchor collegium iuvenum Stuttgart unter Benjamin Hartmann und Sebastian Kunz.
+Deborah Züger (*1997) studiert an der Zürcher Hochschule der Künste im Master Kirchenmusik Chorleitung bei Markus Utz und Ernst Buscagne. Sie leitet den Peter und Paul Chor Oberägeri, das Vokalensemble auris aurea und ist Mitglied des Organistenteams der Kirchgemeinde Freienbach.
+Nach Abschluss ihres Bachelors in Kirchenmusik Chorleitung an der Zürcher Hochschule der Künste 2021 studierte sie in einem Erasmusjahr Chorleitung an der Hochschule für Musik und darstellende Künste Stuttgart bei Prof. Denis Rouger.
+Während ihrer Ausbildung war sie von 2017-2019 Assistentin von Lena-Lisa Wüstendörfer und Lisa Appenzeller beim Messias-Chor Zürich, von 2019-2022 von Nicolas Fink beim Schweizer Jugendchor und 2021 beim Knabenchor collegium iuvenum Stuttgart unter Benjamin Hartmann und Sebastian Kunz. Im Jahr 2022 leitete sie ad interim die Kinder- und Jugendkantorei der Münstermusik Konstanz und im Sommer 2023 die Chöre in der Musikwoche Herzberg.
 
 ![Gruppenfoto]({{ site.url }}/assets/gruppenfoto.png)
 
