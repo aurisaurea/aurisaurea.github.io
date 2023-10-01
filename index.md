@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: default
-title: Et la vie l‘emporta
+title: auris aurea
 ref: home
 layout: single
 ---
