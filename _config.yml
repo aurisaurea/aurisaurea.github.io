@@ -15,6 +15,18 @@ include:
 plugins:
   - "jekyll-include-cache"
 
+footer:
+  links:
+    - label: "Datenschutz"
+      icon: "fas fa-user-secret"
+      url: "/dse"
+    - label: "Youtube"
+      icon: "fab fa-youtube-square"
+      url: "https://www.youtube.com/channel/UCjMT4UyKvrhk57HYpxrV0gw"
+    - label: "Instagram"
+      icon: "fab fa-instagram-square"
+      url: "https://www.instagram.com/auris_aurea"
+
 defaults:
   # _pages
   - scope:
