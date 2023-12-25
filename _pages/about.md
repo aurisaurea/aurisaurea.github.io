@@ -5,7 +5,7 @@ ref: about
 ---
 
 ### Der Chor
-Das Vokalensemble auris aurea wurde 2021 neu gegründet. Es besteht aus rund 30 jungen Sänger:innen aus der ganzen Schweiz, von denen sich ein grosser Teil im Schweizer Jugendchor kennen gelernt hat. Seit 2022 ist das Vokalensemble auris aurea als Verein mit Sitz im Kanton Schwyz aufgestellt. Den jungen Sängerinnen und Sängern ist es ein Anliegen, klassisches Chorrepertoire aus verschiedensten Epochen auf hohem Niveau zu präsentieren, die Musik gleichzeitig dynamisch und packend aufzuführen und damit die Kulturlandschaft des Kantons Schwyz um ein junges und ambitioniertes Vokalensemble zu bereichern. Das Vokalensemble auris aurea hat sich zudem vorgenommen, sich in den Bereich der experimentellen Vokalmusik vorzuwagen und in jedem Projekt auch ein zeitgenössisches Werk erklingen zu lassen.
+Das Vokalensemble auris aurea wurde 2021 neu gegründet. Es besteht aus rund 30 jungen Sänger:innen aus der ganzen Schweiz, von denen sich ein grosser Teil im Schweizer Jugendchor kennen gelernt hat. Seit 2022 ist das Vokalensemble auris aurea als Verein mit Sitz im Kanton Schwyz aufgestellt, seit 2023 Mitglied im Schwyzer Kantonalchorverband. Den jungen Sängerinnen und Sängern ist es ein Anliegen, klassisches Chorrepertoire aus verschiedensten Epochen auf hohem Niveau zu präsentieren, die Musik gleichzeitig dynamisch und packend aufzuführen und damit die Kulturlandschaft des Kantons Schwyz um ein junges und ambitioniertes Vokalensemble zu bereichern. Das Vokalensemble auris aurea hat sich zudem vorgenommen, sich in den Bereich der experimentellen Vokalmusik vorzuwagen und in jedem Projekt auch ein zeitgenössisches Werk erklingen zu lassen.
 
 ![Gruppenfoto2]({{ site.url }}/assets/gruppenfoto2.png)
 
