@@ -1,19 +1,18 @@
 ---
 permalink: /
 layout: default
-title: Et la vie l'emporta
+title: Vokalensemble auris aurea
 ref: home
 layout: single
 ---
 
-<!--
-Zum 50. Todesjahr des Schweizer Komponisten Frank Martin schliessen sich der Kammerchor C21 und das Vokalensemble auris aurea zusammen, um dessen letztes Werk Et la vie l’emporta (1974) und das Requiem da Camera (1924) von Gerald Finzi aufzuführen. Die Werke handeln von Krieg und Krankheit, vom Kampf zwischen Leben und Tod und von der Frage, wie angesichts permanent herrschender, grausamer Konflikte der Mut zum Weiterleben gefunden werden kann – Themen, die leider in den letzten Jahren keinesfalls an Aktualität verloren haben. Als Brücke zwischen den zwei Stücken für Chor, Solist:innen und Kammerensemble dient «Four 2» für Chor a cappella von John Cage.
 
+![Foto](assets/etlavie/etlavie-foto.JPG){:style="display:block; margin-left:auto; margin-right:auto"}
 
-Aufführungen:
-- Sa 27. Januar 2024, Pfäffikon SZ
-- So 28. Januar 2024, Neumünster Zürich
--->
+Wir sind ein junges Vokalensemble unter der Leitung von Deborah Züger. Uns gibt es seit 2021.
 
-![Flyer1](/assets/etlavie/FlyerEtlavie-0.png){:style="display:block; margin-left:auto; margin-right:auto"}
-![Flyer2](/assets/etlavie/FlyerEtlavie-1.png){:style="display:block; margin-left:auto; margin-right:auto"}
+Nächstes Projekt: auris aurea goes jazz!
+
+Konzerte 4., 5. und 6. Oktober 2024
+
+![Gruppenfoto]({{ site.url }}/assets/gruppenfoto.png)

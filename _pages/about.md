@@ -21,7 +21,7 @@ Im Januar 2024 schloss sie an der Zürcher Hochschule der Künste ihren Master i
 Während ihrer Ausbildung war Deborah Züger Assistentin von Nicolas Fink beim Schweizer Jugendchor, von Benjamin Hartmann und Sebastian Kunz beim Knabenchor collegium iuvenum und von Lena-Lisa Wüstendörfer und Lisa Appenzeller beim Messias-Chor. Weitere Impulse erhielt sie in Chorleitungs-Meisterkursen bei Florian Helgath und Raphael Immoos.
 Deborah Züger ist Preisträgerin des 1. Schweizer Chorleitungswettbewerbs, der 2024 mit den Basler Madrigalisten durchgeführt wurde.
 
-![Gruppenfoto]({{ site.url }}/assets/gruppenfoto.png)
+![Debi](/assets/debi.jpeg)
 
 <!--
 ### La direction
