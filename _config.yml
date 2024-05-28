@@ -17,15 +17,18 @@ plugins:
 
 footer:
   links:
-    - label: "Datenschutz"
-      icon: "fas fa-user-secret"
-      url: "/dse"
+    - label: "Kontakt"
+      icon: "fas fa-envelope"
+      url: "mailto:auris.aurea.sz@gmail.com"  
     - label: "Youtube"
       icon: "fab fa-youtube-square"
       url: "https://www.youtube.com/channel/UCjMT4UyKvrhk57HYpxrV0gw"
     - label: "Instagram"
       icon: "fab fa-instagram-square"
       url: "https://www.instagram.com/auris_aurea"
+    - label: "Datenschutz"
+      icon: "fas fa-user-secret"
+      url: "/dse"
 
 defaults:
   # _pages
