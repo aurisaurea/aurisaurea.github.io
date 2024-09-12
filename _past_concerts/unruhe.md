@@ -9,4 +9,4 @@ Ein Projekt des Vokalensemble auris aurea mit Rahel Trinkler, Klarinette solo un
 
 [Konzertprogramm](/assets/unruhe/programm.pdf)
 
-({% include image-gallery.html caption="Eindrücke vom Probenwochenende" folder="assets/unruhe/fotos"%})
+{% include image-gallery.html caption="Eindrücke vom Probenwochenende" folder="assets/unruhe/fotos"%}
