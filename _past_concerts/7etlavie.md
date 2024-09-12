@@ -16,3 +16,5 @@ Aufführungen:
 
 ![Flyer1](/assets/etlavie/FlyerEtlavie-0.png){:style="display:block; margin-left:auto; margin-right:auto"}
 ![Flyer2](/assets/etlavie/FlyerEtlavie-1.png){:style="display:block; margin-left:auto; margin-right:auto"}
+
+{% include image-gallery.html caption="Eindrücke vom Projekt" folder="assets/etlavie/fotos"%}

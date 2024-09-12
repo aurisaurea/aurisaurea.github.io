@@ -11,3 +11,5 @@ Das junge Vokalensemble auris aurea hat sich in seinem dritten Projekt mit der M
 [Ausschnitte des Konzertes](https://www.youtube.com/playlist?list=PLrAxwNHNsOzpJR7b24amgG1Z4bdTN6iNl)
 
 ![Kantaten](/assets/kantaten/flyer.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+
+{% include image-gallery.html caption="Eindrücke vom Projekt" folder="assets/kantaten/fotos"%}
