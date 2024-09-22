@@ -1,5 +1,6 @@
 # Site settings
-title: auris aurea
+title: " "
+logo: assets/logos/Wortbildmarke/Positiv/AUR_Wortbildmarke_positiv.png
 description: >- # this means to ignore newlines until "baseurl:"
   auris aurea ist ein Chor mit Sitz in Pfäffikon SZ. Wir singen klassische Chormusik, aber auch moderne Arrangements.
 minimal_mistakes_skin: dirt
