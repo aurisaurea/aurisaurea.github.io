@@ -3,3 +3,5 @@ main:
     url: /about/
   - title: "Bisherige Konzerte"
     url: /past_concerts/
+  - title: "Unterstützung"
+    url: /support/
