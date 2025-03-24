@@ -7,7 +7,7 @@ ref: about
 ### Der Chor
 Das Vokalensemble auris aurea wurde 2021 neu gegründet. Es besteht aus rund 30 jungen Sänger:innen aus der ganzen Schweiz, von denen sich ein grosser Teil im Schweizer Jugendchor kennen gelernt hat. Seit 2022 ist das Vokalensemble auris aurea als Verein mit Sitz im Kanton Schwyz aufgestellt, seit 2023 Mitglied im Schwyzer Kantonalchorverband. Den jungen Sängerinnen und Sängern ist es ein Anliegen, klassisches Chorrepertoire aus verschiedensten Epochen auf hohem Niveau zu präsentieren, die Musik gleichzeitig dynamisch und packend aufzuführen und damit die Kulturlandschaft des Kantons Schwyz um ein junges und ambitioniertes Vokalensemble zu bereichern. Das Vokalensemble auris aurea hat sich zudem vorgenommen, sich in den Bereich der experimentellen Vokalmusik vorzuwagen und in jedem Projekt auch ein zeitgenössisches Werk erklingen zu lassen.
 
-![Gruppenfoto2]({{ site.url }}/assets/gruppenfoto2.png)
+![Gruppenfoto2]({{ site.url }}/assets/gruppenfoto2.webp)
 
 <!--
 ### Le choeur
@@ -24,7 +24,7 @@ Im Januar 2024 schloss sie an der Zürcher Hochschule der Künste ihren Master i
 Von 2018 bis 2024 leitete Deborah Züger den Peter und Paul Chor Oberägeri. Während ihrer Ausbildung war sie Assistentin von Nicolas Fink beim Schweizer Jugendchor, von Benjamin Hartmann und Sebastian Kunz beim Knabenchor collegium iuvenum und von Lena-Lisa Wüstendörfer und Lisa Appenzeller beim Messias-Chor. Weitere Impulse erhielt sie in Chorleitungs-Meisterkursen bei Florian Helgath, Raphael Immoos und Yuval Weinberg. Deborah Züger ist Preisträgerin des 1. Schweizer Chorleitungswettbewerbs, der 2024 mit den Basler Madrigalisten durchgeführt wurde. Im Januar und April 2025 fanden unter ihrer Leitung die Preisträgerkonzerte «Teile dich, Nacht» der Basler Madrigalisten statt.
 
 <figure>
-    <img src="{{ site.url }}/assets/debi.png" alt="Debi" style="display:block; margin-left:auto; margin-right:auto">
+    <img src="{{ site.url }}/assets/debi.webp" alt="Debi" style="display:block; margin-left:auto; margin-right:auto">
 </figure>
 
 <!--
