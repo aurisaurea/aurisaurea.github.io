@@ -16,13 +16,15 @@ Créé en 2021, l’ensemble vocal auris aurea, se compose de 30 jeunes chanteur
 
 ### Die Chorleitung
 
-Deborah Züger (*1997) leitet das Vokalensemble auris aurea, den Peter und Paul Chor Oberägeri und ist Mitglied des Organistenteams der Kirchgemeinde Freienbach.
+
+Deborah Züger (*1997) leitet das Vokalensemble auris aurea, ist Mitglied des Vokalensembles OTTO und des Orgel-Teams der Kirchgemeinde Freienbach.
+
 Im Januar 2024 schloss sie an der Zürcher Hochschule der Künste ihren Master in Kirchenmusik Chorleitung bei Prof. Markus Utz und Prof. Ernst Buscagne mit Auszeichnung ab, der durch ein Erasmusjahr an der Hochschule für Musik und darstellende Künste Stuttgart bei Prof. Denis Rouger ergänzt wurde.
-Während ihrer Ausbildung war Deborah Züger Assistentin von Nicolas Fink beim Schweizer Jugendchor, von Benjamin Hartmann und Sebastian Kunz beim Knabenchor collegium iuvenum und von Lena-Lisa Wüstendörfer und Lisa Appenzeller beim Messias-Chor. Weitere Impulse erhielt sie in Chorleitungs-Meisterkursen bei Florian Helgath und Raphael Immoos.
-Deborah Züger ist Preisträgerin des 1. Schweizer Chorleitungswettbewerbs, der 2024 mit den Basler Madrigalisten durchgeführt wurde.
+
+Von 2018 bis 2024 leitete Deborah Züger den Peter und Paul Chor Oberägeri. Während ihrer Ausbildung war sie Assistentin von Nicolas Fink beim Schweizer Jugendchor, von Benjamin Hartmann und Sebastian Kunz beim Knabenchor collegium iuvenum und von Lena-Lisa Wüstendörfer und Lisa Appenzeller beim Messias-Chor. Weitere Impulse erhielt sie in Chorlei-tungs-Meisterkursen bei Florian Helgath, Raphael Immoos und Yuval Weinberg. Deborah Züger ist Preisträgerin des 1. Schweizer Chorleitungswettbewerbs, der 2024 mit den Basler Madrigalisten durchgeführt wurde. Im Januar und April 2025 fanden unter ihrer Leitung die Preisträgerkonzerte «Teile dich, Nacht» der Basler Madrigalisten statt.
 
 <figure>
-    <img src="{{ site.url }}/assets/debi.jpeg" alt="Debi" style="display:block; margin-left:auto; margin-right:auto">
+    <img src="{{ site.url }}/assets/debi.png" alt="Debi" style="display:block; margin-left:auto; margin-right:auto">
     <figcaption>Basler Madrigalisten/Benno Hunziker</figcaption>
 </figure>
 
