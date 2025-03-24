@@ -21,14 +21,19 @@ Deborah Züger (*1997) leitet das Vokalensemble auris aurea, ist Mitglied des Vo
 
 Im Januar 2024 schloss sie an der Zürcher Hochschule der Künste ihren Master in Kirchenmusik Chorleitung bei Prof. Markus Utz und Prof. Ernst Buscagne mit Auszeichnung ab, der durch ein Erasmusjahr an der Hochschule für Musik und darstellende Künste Stuttgart bei Prof. Denis Rouger ergänzt wurde.
 
-Von 2018 bis 2024 leitete Deborah Züger den Peter und Paul Chor Oberägeri. Während ihrer Ausbildung war sie Assistentin von Nicolas Fink beim Schweizer Jugendchor, von Benjamin Hartmann und Sebastian Kunz beim Knabenchor collegium iuvenum und von Lena-Lisa Wüstendörfer und Lisa Appenzeller beim Messias-Chor. Weitere Impulse erhielt sie in Chorlei-tungs-Meisterkursen bei Florian Helgath, Raphael Immoos und Yuval Weinberg. Deborah Züger ist Preisträgerin des 1. Schweizer Chorleitungswettbewerbs, der 2024 mit den Basler Madrigalisten durchgeführt wurde. Im Januar und April 2025 fanden unter ihrer Leitung die Preisträgerkonzerte «Teile dich, Nacht» der Basler Madrigalisten statt.
+Von 2018 bis 2024 leitete Deborah Züger den Peter und Paul Chor Oberägeri. Während ihrer Ausbildung war sie Assistentin von Nicolas Fink beim Schweizer Jugendchor, von Benjamin Hartmann und Sebastian Kunz beim Knabenchor collegium iuvenum und von Lena-Lisa Wüstendörfer und Lisa Appenzeller beim Messias-Chor. Weitere Impulse erhielt sie in Chorleitungs-Meisterkursen bei Florian Helgath, Raphael Immoos und Yuval Weinberg. Deborah Züger ist Preisträgerin des 1. Schweizer Chorleitungswettbewerbs, der 2024 mit den Basler Madrigalisten durchgeführt wurde. Im Januar und April 2025 fanden unter ihrer Leitung die Preisträgerkonzerte «Teile dich, Nacht» der Basler Madrigalisten statt.
 
 <figure>
     <img src="{{ site.url }}/assets/debi.png" alt="Debi" style="display:block; margin-left:auto; margin-right:auto">
-    <figcaption>Basler Madrigalisten/Benno Hunziker</figcaption>
 </figure>
 
 <!--
+
+<figure>
+    <img src="{{ site.url }}/assets/debi2.jpeg" alt="Debi" style="display:block; margin-left:auto; margin-right:auto">
+    <figcaption>Basler Madrigalisten/Benno Hunziker</figcaption>
+</figure>
+
 ### La direction
 Deborah Züger (*1997) a grandi à Pfäffikon (SZ) et a fait sa scolarité au collège d’Einsiedeln. Actuellement en classe de master à la Haute Ecole d’Arts de Zurich (ZHdK), elle se forme en direction chorale et en musique d’église auprès de Markus Utz et d’Ernst Buscagne. Elle est de plus assistante de direction au Chœur Suisse des Jeunes, dirige le Peter und Paul Chor Oberägeri, le chœur d’enfants et de jeunes de la cathédrale de Constance, l’ensemble vocal auris aurea et fait partie de l’équipe d’organistes de la paroisse de Freienbach. 
 
