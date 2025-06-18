@@ -24,7 +24,8 @@ Im Januar 2024 schloss sie an der Zürcher Hochschule der Künste ihren Master i
 Von 2018 bis 2024 leitete Deborah Züger den Peter und Paul Chor Oberägeri. Während ihrer Ausbildung war sie Assistentin von Nicolas Fink beim Schweizer Jugendchor, von Benjamin Hartmann und Sebastian Kunz beim Knabenchor collegium iuvenum und von Lena-Lisa Wüstendörfer und Lisa Appenzeller beim Messias-Chor. Weitere Impulse erhielt sie in Chorleitungs-Meisterkursen bei Florian Helgath, Raphael Immoos und Yuval Weinberg. Deborah Züger ist Preisträgerin des 1. Schweizer Chorleitungswettbewerbs, der 2024 mit den Basler Madrigalisten durchgeführt wurde. Im Januar und April 2025 fanden unter ihrer Leitung die Preisträgerkonzerte «Teile dich, Nacht» der Basler Madrigalisten statt.
 
 <figure>
-    <img src="{{ site.url }}/assets/debi.webp" alt="Debi" style="display:block; margin-left:auto; margin-right:auto">
+    <img src="{{ site.url }}/assets/debi.webp" alt="Debi" style="display:block; margin-left:auto; margin-right:auto; width:80%;">
+    <figcaption>Fotograf: Andri Laukas</figcaption>
 </figure>
 
 <!--
