@@ -4,7 +4,7 @@ title: Sea Change 2022
 ref: seachange
 ---
 
-Besuchen Sie einen Konzertabend rund um Shakespeare und das Leben & Lieben auf der Britischen Insel.
+Ein Konzertabend rund um Shakespeare und das Leben & Lieben auf der Britischen Insel.
 
 - 12.11.2022, 19:00 Uhr: Kirche St. Jean, Fribourg
 - 13.11.2022, 17:00 Uhr: Kath. Kirche, Pfäffikon SZ

@@ -4,7 +4,9 @@ title: Fest der Musik 2025
 ref: jazz
 ---
 
-Wir waren am Schwyzer Kantonalen Fest der Musik und haben die Bestnote 6 erhalten! Unser Programm war:
+Wir waren am Schwyzer Kantonalen Fest der Musik und haben die Bestnote 6 erhalten!
+
+Gesungen haben wir:
 
 - Morley: It was a lover and his lass
 - Brahms: Nachtwache II
