@@ -20,3 +20,9 @@ Aufführungen:
 {% include image-gallery.html caption="Eindrücke vom Projekt" folder="assets/etlavie/fotos"%}
 
 <iframe src="/assets/etlavie/Zeitungsartikel.pdf" width="100%" height="600px" style="border: none; display: block; margin: 20px auto;"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9jleVX8kG7o?si=lAn2cjNq7t0aqIAB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CVJ4GTJid6A?si=B6fFRP92-JCmhg1e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/V7JzrjL7GSU?si=IBDwvKgd_XpsYaaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
