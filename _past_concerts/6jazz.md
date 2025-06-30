@@ -10,6 +10,4 @@ Wir haben uns an ein ganz anderes Repertoire gewagt und gemeinsam mit dem Pianis
 
 [Programheft]({{ site.url }}/assets/jazz/Programmheft auris aurea goes jazz.pdf)
 
-<!--
-TODO Insert pictures here
--->
+{% include image-gallery.html caption="Eindrücke vom Projekt" folder="assets/jazz/fotos" %}

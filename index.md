@@ -7,11 +7,14 @@ ref: home
 layout: single
 ---
 
-
+<!--
 <figure>
-    <img src="{{ site.url }}/assets/etlavie/etlavie-foto.webp" alt="Foto" style="display:block; margin-left:auto; margin-right:auto">
+    <img src="{{ site.url }}/assets/jazz/fotos/" alt="Foto" style="display:block; margin-left:auto; margin-right:auto">
     <figcaption>Höfner Volksblatt/Micha Brandstetter</figcaption>
 </figure>
+-->
+
+![auris aurea]({{ site.url }}/assets/jazz/fotos/fotojazz.jpg)
 
 #### Vokalensemble auris aurea
 
