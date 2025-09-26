@@ -31,7 +31,7 @@ Von 2018 bis 2024 leitete Deborah Züger den Peter und Paul Chor Oberägeri. Wä
 <!--
 
 <figure>
-    <img src="{{ site.url }}/assets/debi2.jpeg" alt="Debi" style="display:block; margin-left:auto; margin-right:auto">
+    <img src="{{ site.url }}/assets/debi2.webp" alt="Debi" style="display:block; margin-left:auto; margin-right:auto">
     <figcaption>Basler Madrigalisten/Benno Hunziker</figcaption>
 </figure>
 

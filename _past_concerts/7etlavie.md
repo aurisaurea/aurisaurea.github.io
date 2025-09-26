@@ -14,8 +14,8 @@ Aufführungen:
 - Sa 27. Januar 2024, Pfäffikon SZ
 - So 28. Januar 2024, Neumünster Zürich
 
-![Flyer1](/assets/etlavie/FlyerEtlavie-0.png){:style="display:block; margin-left:auto; margin-right:auto"}
-![Flyer2](/assets/etlavie/FlyerEtlavie-1.png){:style="display:block; margin-left:auto; margin-right:auto"}
+![Flyer1](/assets/etlavie/FlyerEtlavie-0.webp){:style="display:block; margin-left:auto; margin-right:auto"}
+![Flyer2](/assets/etlavie/FlyerEtlavie-1.webp){:style="display:block; margin-left:auto; margin-right:auto"}
 
 {% include image-gallery.html caption="Eindrücke vom Projekt" folder="assets/etlavie/fotos"%}
 

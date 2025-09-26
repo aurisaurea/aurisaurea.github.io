@@ -14,19 +14,21 @@ layout: single
 </figure>
 -->
 
-![auris aurea]({{ site.url }}/assets/jazz/fotos/fotojazz.jpg)
 
-#### Vokalensemble auris aurea
 
-Leitung Deborah Züger
+## Vokalensemble auris aurea
 
-#### Aktuelles Projekt: In Nature's Realm
+![In Nature's Realm]({{ site.url }}/assets/nature/program.webp) 
 
-Werke u.a. von Britten, Dvořák und Hensel
+Leitung Deborah Züger, Werke u.a. von Britten, Dvořák und Hensel
 
 - Freitag, 17.10.25, 20:00, Kirche Zürich Enge
 - Samstag, 18.10.25, 17:00, Kirche Pfäffikon SZ
 - Sonntag, 19.10.25, 17:00, Nydeggkirche Bern
 
+Eintritt frei, Kollekte
 
-![Gruppenfoto]({{ site.url }}/assets/etlavie/fotos/IMG20240107152821.jpg)
+
+
+![auris aurea]({{ site.url }}/assets/jazz/fotos/fotojazz.webp)
+<!-- ![Gruppenfoto]({{ site.url }}/assets/etlavie/fotos/IMG20240107152821.webp)-->

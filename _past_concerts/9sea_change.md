@@ -15,7 +15,7 @@ Lied Texte: [English]({{ site.url }}/assets/seachange/programmtexte.pdf)
 
 Übersetzung der Shakespeare Texte: [Deutsch]({{ site.url }}/assets/seachange/uebersetzung.pdf) [Francais]({{ site.url }}/assets/seachange/traduction.pdf)
  
-![Sea Change](/assets/seachange/seachange_de.png)
+![Sea Change](/assets/seachange/seachange_de.webp)
 
 
 {% include image-gallery.html caption="Eindrücke vom Projekt" folder="assets/seachange/fotos"%}
