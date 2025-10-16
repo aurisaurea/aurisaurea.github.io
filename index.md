@@ -18,7 +18,9 @@ layout: single
 
 ## Vokalensemble auris aurea
 
-![In Nature's Realm]({{ site.url }}/assets/nature/program.webp) 
+![In Nature's Realm]({{ site.url }}/assets/nature/flyer.webp)
+
+[Programmheft]({{ site.url }}/assets/nature/programm.pdf)
 
 Leitung Deborah Züger, Werke u.a. von Britten, Dvořák und Hensel
 
