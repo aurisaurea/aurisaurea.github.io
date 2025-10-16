@@ -16,7 +16,9 @@ layout: single
 
 
 
-## Vokalensemble auris aurea
+# Vokalensemble auris aurea
+
+## Aktuelles Konzert
 
 ![In Nature's Realm]({{ site.url }}/assets/nature/flyer.webp)
 
@@ -34,3 +36,8 @@ Eintritt frei, Kollekte
 
 ![auris aurea]({{ site.url }}/assets/jazz/fotos/fotojazz.webp)
 <!-- ![Gruppenfoto]({{ site.url }}/assets/etlavie/fotos/IMG20240107152821.webp)-->
+
+## Nächste Konzerte
+
+- 10.01.26, 11:00: Orgelmatinee in der Kath. Kirche Pfäffikon SZ
+- 18./19.04.26: Konzerte mit Chor und Orchester
